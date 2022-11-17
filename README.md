@@ -21,3 +21,7 @@ Hydrated Bloc
 ## PACKAGES USED
 Check the pubsec.yaml file
 
+
+
+https://user-images.githubusercontent.com/63297674/202498119-6309a8b9-31ee-4cf1-9a06-aeca6647d129.mp4
+
