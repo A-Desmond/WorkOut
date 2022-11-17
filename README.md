@@ -1,16 +1,23 @@
-# workout
+## Work Out Timer App
+This app contains  two json work outs and  each file  has list of exercises.
 
-A new Flutter project.
+## FEATURE OF THE APP
+Edit exercise  name
 
-## Getting Started
+Edit exercises start time and end time
 
-This project is a starting point for a Flutter application.
+Save exercises changes  to local storage
 
-A few resources to get you started if this is your first Flutter project:
+Timer to keep track of the exercise
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## STATE MANAGEMENT 
+
+Bloc Cubit
+
+## LOCAL STORAGE 
+Hydrated Bloc
+
+## PACKAGES USED
+Check the pubsec.yaml file
+
